@@ -1,0 +1,41 @@
+Compte Rendu de Réunion du 10 janvier :
+
+Animateur: Mathieu
+CR :So
+
+Scène Espace (Mat et Jiadong)
+Récupérer doc
+Gameplay de l'extincteur : Retourner l'extincteur directement quand on le prend en main
+Gravité : Autoriser la rotation mais avec vitesse réduite. Si on se rend compte que ça donne mal à la tête. La voix le troll et on utilise plus que les translations.
+Fin du niveau : Simple on touche le vaisseau. Et si on a le temps : on vole jusqu'au vaisseau et on s'y aggripe pour trouver la porte.
+Mains : Manette 3D
+Voix off : troll
+Jauge extincteur : se trouve en dessous pour forcer le joueur à manipuler l'objet
+Terrain : Delimitation
+
+Scène Escalier(Grazia et Mengxin)
+Récupérer doc
+Repère dans la scène : couleur ou décor pour repérer le bas et le haut
+S'il se perd, comment on fait ?
+
+Scène Dali (Roxane, Hilaire et So)
+Récupérer doc
+Définir quel type de scène c'est ? Dali ou post apo
+Décor : Brouilard, ville couloir sur pont au dessus de l'eau
+Méca : les volants
+Gameplay : avancer parmis les méca (gentils) en évitant la lumière.
+parapluie optionnel
+
+Général :
+Si on a pas le casque, développer le jeu sur android.
+style réaliste
+on a pas le temps
+Priorité: aspect joueur, prendre rdv avec le gars
+
+Tâches à faire :
+Découvrir Unreal Ungine
+Faire ordre de priorité des scènes
+Coup2Boost
+
+pour le 24 :
+So : Faire menu
