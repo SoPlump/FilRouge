@@ -1,0 +1,1 @@
+Ici les gens de la scène Escalier ajoute leurs objets

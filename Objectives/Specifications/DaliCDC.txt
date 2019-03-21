@@ -1,0 +1,28 @@
+Schéma / Plan :
+	Scène se déroule dans une ville, autoroute, pont au dessus d'un fleuve OU
+	Scène se déroule dans une sorte de désert OU
+	Mélange des deux
+Objectifs : Le joueur devra échapper à la vue des gardiens tout en avançant dans le niveau pour rejoindre le seul endroit qui à l'air sûr, un immeuble.
+Chemin de résolution : Il faut donc que le joueur avance parmis les décombres de la scène, tout en surveillant les gardiens pour pouvoir se cacher au bon moment.
+Gameplay : Soit téléportation, soit déplacer avec le joystick. Il devra s'accroupir, voir s'allonger dans la vraie vie pour pouvoir se cacher derrière les décombres.
+Ambiance / Musique :
+	Lumière : Debut de nuit
+	Effets : Brouillard de sable
+	Couleur : orange pour la couleur générale. La lumière des gardiens sera blanche jusqu'à qu'ils trouvent le joueur où elle deviendra alors rouge.
+	Musique : calme ? En tout cas, quand le jouer est trouvé par le gardien musique stressante.
+Liste d'objets :
+	Objets de la scène : 
+		- Immeubles destructibles
+		- Plusieurs modèles d'immeubles
+	Objets du personnage : 
+		- Un parapluie pour pouvoir le déployer au dessus de soi et se cacher du gardien en restant un minimum immobile
+Détails pour 3D :
+	- tempête de sable
+	- sable sur débris
+	- gardien en mode méca
+Scénario :
+	- Plan où on observe la ville puis
+	- Un des méca volants voit une personne dans un bâtiment et le détruit avec sa queue *respiration stressée* puis
+	- voix off indique qu'il faut [donner objectifs plus précis]
+	- possibilité de ramasser un parapluie vers le milieu du chemin
+	- ouvre la porte et se faire aspirer dans l'espace
