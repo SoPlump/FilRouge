@@ -1,0 +1,20 @@
+﻿CR2803
+
+On a le casque !!
+Il reste 6 semaines hors vacances
+
+Qu'est ce qu'on va montrer au livrable ?
+Dali :
+	gameplay des pnj (monstres)
+	immeuble destructible
+Stairs :
+	téléportation
+Space :
+	gravité
+	extincteur
+
+Sophie rejoint Grazia
+Les réunions se font toutes les semaines chez Roxane
+
+Personnes présentes :
+Roxane, Jiadong, Mathieu, Grazia, Sophie
